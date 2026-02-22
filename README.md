@@ -12,3 +12,6 @@
 ### Локально
 ```bash
 go run cmd/main.go
+
+### Через Docker
+docker-compose up --build -d
