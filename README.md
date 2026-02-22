@@ -1,6 +1,6 @@
 # Wallet Service
 
-Тестовое задание сервис кошелек от ITK Academy
+Тестовое задание: сервис кошелек от ITK Academy
 
 ## API Endpoints
 
